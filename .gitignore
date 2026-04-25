@@ -1,0 +1,8 @@
+강의+자료/
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+.DS_Store
